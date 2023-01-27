@@ -1,0 +1,11 @@
+.header__top-nav-logo {
+    background-color: black;
+    width: 50%;
+}
+.outer_bDW {
+    color: greenyellow;
+}
+.header__top-nav-menu a {
+    color: var(--main-color);
+
+}
